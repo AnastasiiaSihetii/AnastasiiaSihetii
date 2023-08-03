@@ -5,9 +5,7 @@ I'm a UX/UI Designer
 
 🌀 development of interfaces, websites, admin panels, and dashboards
 
-
-
-
+-------------------------------------------
 ### u8views — views counter
 GitHub profile views statistic
 
