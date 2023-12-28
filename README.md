@@ -5,6 +5,7 @@ Hi there👋
 
 🌀 development of interfaces, websites, admin panels, and dashboards
 
+![White space.](https://i.ibb.co/h2Fz7hw/logo.png)
 
 ## ReadyToTouch - Anonymous  job search
 
