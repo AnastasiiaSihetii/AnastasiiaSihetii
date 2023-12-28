@@ -11,7 +11,7 @@ Hi there👋
 1. [Project announcement](https://dou.ua/forums/topic/44615)
 2. [readytotouch.com](https://readytotouch.com/) - Tracking registrations and online users of the platform. Sign in with GitHub or GitLab to support the project
 
-![White space.]([https://myoctocat.com/assets/images/base-octocat.svg](https://i.ibb.co/h2Fz7hw/logo.png))
+![White space.](https://i.ibb.co/h2Fz7hw/logo.png)
 
 
 
